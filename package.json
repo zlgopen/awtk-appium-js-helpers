@@ -1,0 +1,19 @@
+{
+  "name": "awtk-appium-js-helpers",
+  "version": "1.0.0",
+  "description": "awtk-appium-js-helpers",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlgopen/awtk-appium-js-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlgopen/awtk-appium-js-helpers/issues"
+  },
+  "homepage": "https://github.com/zlgopen/awtk-appium-js-helpers#readme"
+}
